@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "xIkMyQC8FD8PWKwpGb8iauamstUM7GH9CfoH3GPSATE=",
+  "Source": "Lab7",
+  "BasePath": "_content/Lab7",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Lab7\\wwwroot",
+      "Source": "Lab7",
+      "ContentRoot": "C:\\Users\\sexyg\\source\\repos\\Lab7\\Lab7\\wwwroot\\",
+      "BasePath": "_content/Lab7",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\sexyg\\source\\repos\\Lab7\\Lab7\\wwwroot\\files\\file.txt",
+      "SourceId": "Lab7",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sexyg\\source\\repos\\Lab7\\Lab7\\wwwroot\\",
+      "BasePath": "_content/Lab7",
+      "RelativePath": "files/file.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\file.txt"
+    },
+    {
+      "Identity": "C:\\Users\\sexyg\\source\\repos\\Lab7\\Lab7\\wwwroot\\files\\файл.txt",
+      "SourceId": "Lab7",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sexyg\\source\\repos\\Lab7\\Lab7\\wwwroot\\",
+      "BasePath": "_content/Lab7",
+      "RelativePath": "files/файл.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\файл.txt"
+    }
+  ]
+}
